@@ -1,0 +1,11 @@
+com/example/checklistapp/BuildConfig.java
+ com.example.checklistapp.BuildConfig
+com/example/checklistapp/MainActivity.java
+ com.example.checklistapp.MainActivity
+ com.example.checklistapp.MainActivity$1
+com/example/checklistapp/SecondFragment.java
+ com.example.checklistapp.SecondFragment
+ com.example.checklistapp.SecondFragment$1
+com/example/checklistapp/FirstFragment.java
+ com.example.checklistapp.FirstFragment
+ com.example.checklistapp.FirstFragment$1
